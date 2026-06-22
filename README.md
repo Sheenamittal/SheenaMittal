@@ -6,7 +6,7 @@
 
 *Final-year B.Tech CSE @ BML Munjal University · AI Intern @ MedullaAI, Delhi*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sheenamittal](https://www.linkedin.com/in/sheena-mittal-0b09b9256/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheena-mittal-0b09b9256/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sheenamittal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheenamittal93@gmail.com)
 
@@ -112,9 +112,9 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 
 <div align="center">
 
-![Sheena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheenamittal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sheenamittal&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheenamittal&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheenamittal&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 
 </div>
 
