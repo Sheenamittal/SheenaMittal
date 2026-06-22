@@ -16,13 +16,12 @@
 
 ## 🧬 About Me
 
-I'm a final-year CS student who sits at the intersection of **AI research** and **real-world systems** — from predicting CRISPR gRNA efficiency to building production ad analytics pipelines.
+I'm a final-year CS student who sits at the intersection of **AI research** and **real-world systems** - from predicting CRISPR gRNA efficiency to building production ad analytics pipelines.
 
 - 🔬 Researching **CRISPRi gRNA repression efficiency** using MERF + SHAP (Guide-Net)
 - 🧪 Building **graph neural networks** for molecular lipophilicity prediction (LipoNet)
 - 👁️ Deployed a **retinal OCT classifier** with 94% accuracy on 20K+ images (EyeQ-Analyzer)
-- 🎯 Currently interning at **MedullaAI** — building batch video processing & ad variation pipelines
-- 📄 Submitting to **PSB 2027** — Pacific Symposium on Biocomputing
+- 🎯 Currently interning at **MedullaAI** - building batch video processing & ad variation pipelines
 
 ---
 
