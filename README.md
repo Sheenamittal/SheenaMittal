@@ -78,33 +78,27 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 
 ## 🛠️ Tech Stack
 
-**ML / DL**
+**Programming Languages**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java,c,cpp&theme=dark)](https://skillicons.dev)
+
+**ML / DL & AI**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+
+> Also: PyTorch Geometric · SHAP · MERF · LangChain · OpenAI API · HuggingFace
 
 **Bioinformatics**
 
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bowtie](https://img.shields.io/badge/Bowtie2-4CAF50?style=flat-square&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-00897B?style=flat-square&logoColor=white)
+> BioPython · Bowtie2 · RDKit · CRISPR gRNA analysis
 
-**AI / LLM**
+**Dev & Cloud**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,react,docker,aws,gcp,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
-**Dev / Cloud**
+**Operating Systems**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=ios,windows,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
