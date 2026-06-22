@@ -86,11 +86,19 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
 
-> Also: PyTorch Geometric · SHAP · MERF · LangChain · OpenAI API · HuggingFace
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-1e1e2e?style=for-the-badge&logoColor=white)
+![MERF](https://img.shields.io/badge/MERF-1e1e2e?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Bioinformatics**
 
-> BioPython · Bowtie2 · RDKit · CRISPR gRNA analysis
+![BioPython](https://img.shields.io/badge/BioPython-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-1e1e2e?style=for-the-badge&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-1e1e2e?style=for-the-badge&logoColor=white)
+![CRISPR](https://img.shields.io/badge/CRISPR_gRNA-1e1e2e?style=for-the-badge&logoColor=white)
 
 **Dev & Cloud**
 
@@ -98,7 +106,7 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 
 **Operating Systems**
 
-[![My Skills](https://skillicons.dev/icons?i=ios,windows,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
