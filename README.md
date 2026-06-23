@@ -47,6 +47,7 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 - GraphSAGE / GIN / GCN architectures
 - RDKit molecular featurization
 - PyTorch Geometric
+- [View repo →](https://github.com/Sheenamittal/LipoNet)
 
 </td>
 </tr>
@@ -59,6 +60,7 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 - VGG16 / ResNet50 on 20K+ images
 - 94% classification accuracy
 - TensorFlow + Keras
+- - [View repo →](https://github.com/Sheenamittal/EyeQ-Analyzer-Multiclass-OCT-Disease-Detection)
 
 </td>
 <td width="50%">
