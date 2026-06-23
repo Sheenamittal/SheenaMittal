@@ -137,7 +137,7 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 ## 📫 Let's Connect
 
 I'm actively looking for **undergraduate research / RA opportunities** in AI × Biology.  
-If your lab is working on something cool — let's talk!
+If your lab is working on something cool - let's talk!
 
 <div align="center">
 
