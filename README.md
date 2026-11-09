@@ -4,7 +4,7 @@
 
 **AI × Computational Biology × Ad-Tech**
 
-*Final-year B.Tech CSE @ BML Munjal University · AI Intern @ MedullaAI, Delhi*
+*B.Tech CSE (AI) Graduate @ BML Munjal University · AI/ML Engineer @ MedullaAI, Delhi*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheena-mittal-0b09b9256/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sheenamittal)
@@ -16,12 +16,12 @@
 
 ## 🧬 About Me
 
-I'm a final-year CS student who sits at the intersection of **AI research** and **real-world systems** - from predicting CRISPR gRNA efficiency to building production ad analytics pipelines.
+I'm a CS graduate who sits at the intersection of **AI research** and **real-world systems** - from predicting CRISPR gRNA efficiency to building production ad analytics pipelines.
 
 - 🔬 Researching **CRISPRi gRNA repression efficiency** using MERF + SHAP (Guide-Net)
 - 🧪 Building **graph neural networks** for molecular lipophilicity prediction (LipoNet)
 - 👁️ Deployed a **retinal OCT classifier** with 94% accuracy on 20K+ images (EyeQ-Analyzer)
-- 🎯 Currently interning at **MedullaAI** - building batch video processing & ad variation pipelines
+- 🎯 Working as an AI/ML Engineer at **MedullaAI** - building large-scale video & image processing pipelines, Vertex AI Gemini integrations, and ad creative analytics
 
 ---
 
@@ -47,7 +47,6 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 - GraphSAGE / GIN / GCN architectures
 - RDKit molecular featurization
 - PyTorch Geometric
-- [View repo →](https://github.com/Sheenamittal/LipoNet)
 
 </td>
 </tr>
@@ -60,7 +59,6 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 - VGG16 / ResNet50 on 20K+ images
 - 94% classification accuracy
 - TensorFlow + Keras
-- - [View repo →](https://github.com/Sheenamittal/EyeQ-Analyzer-Multiclass-OCT-Disease-Detection)
 
 </td>
 <td width="50%">
@@ -136,8 +134,8 @@ I'm a final-year CS student who sits at the intersection of **AI research** and 
 
 ## 📫 Let's Connect
 
-I'm actively looking for **undergraduate research / RA opportunities** in AI × Biology.  
-If your lab is working on something cool - let's talk!
+I'm actively looking for **research / RA opportunities** in AI × Biology.  
+If your lab is working on something cool — let's talk!
 
 <div align="center">
 
